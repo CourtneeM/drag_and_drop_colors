@@ -1,0 +1,35 @@
+#colors-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.color-container {
+  display: flex;
+  flex-basis: 30%;
+  height: 100px;
+}
+
+#red-container {
+  background: red;
+}
+
+#green-container {
+  background: lime;
+}
+
+#blue-container {
+  background: aqua;
+}
+
+#purple-container {
+  background: rebeccapurple;
+}
+
+#orange-container {
+  background: orange;
+}
+
+#pink-container {
+  background: hotpink;
+}
